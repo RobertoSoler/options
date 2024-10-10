@@ -1,4 +1,4 @@
 ativo,put2_q,put2_t,put2_p,put2_c,put1_q,put1_t,put1_p,put1_c,call1_q,call1_t,call1_p,call1_c,call2_q,call2_t,call2_p,call2_c
-PETR4,,,,0,0,,0,0,1,PETRJ426,2.60,1.93,,,,0
-VALE3,,,,0,0,,0,0,1,VALEK640,4.22,3.59,,,,0
+PETR4,,,,0,1,PETRW401,0.46,0,1,PETRK449,0.47,0,,,,0
+VALE3,,,,0,1,VALEW590,0.70,0,1,VALEK640,4.22,3.59,,,,0
 BOVA11,,,,0,1,BOVAW121,1.04,0,1,BOVAK134,1.04,0,,,,0
